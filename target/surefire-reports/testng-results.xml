@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<hr>]]>
+    </line>
+    <line>
+      <![CDATA[<p>Software Update image</p>]]>
+    </line>
+    <line>
+      <![CDATA[<p></p>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="../../devmate/scrshots/Sun Oct 12 18-28-02.jpg" alt="Screenshot Frameworks" height="auto" width="auto"></img>]]>
+    </line>
+    <line>
+      <![CDATA[<hr>]]>
+    </line>
+    <line>
+      <![CDATA[<p>App Management image</p>]]>
+    </line>
+    <line>
+      <![CDATA[<p></p>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="../../devmate/scrshots/Sun Oct 12 18-28-06.jpg" alt="Screenshot Frameworks" height="auto" width="auto"></img>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28061" started-at="2014-10-12T18:27:38Z" finished-at="2014-10-12T18:28:06Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="10991" started-at="2014-10-12T18:27:38Z" finished-at="2014-10-12T18:27:49Z">
+      <class name="com.devmate.tests.Test1">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="5596" started-at="2014-10-12T18:27:38Z" finished-at="2014-10-12T18:27:44Z">
+        </test-method>
+        <test-method status="PASS" signature="test1()" name="test1" duration-ms="5123" started-at="2014-10-12T18:27:44Z" finished-at="2014-10-12T18:27:49Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="264" started-at="2014-10-12T18:27:49Z" finished-at="2014-10-12T18:27:49Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Test2" duration-ms="17049" started-at="2014-10-12T18:27:49Z" finished-at="2014-10-12T18:28:06Z">
+      <class name="com.devmate.tests.Test2">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="4755" started-at="2014-10-12T18:27:49Z" finished-at="2014-10-12T18:27:54Z">
+        </test-method>
+        <test-method status="PASS" signature="test2()" name="test2" duration-ms="12027" started-at="2014-10-12T18:27:54Z" finished-at="2014-10-12T18:28:06Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="267" started-at="2014-10-12T18:28:06Z" finished-at="2014-10-12T18:28:06Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

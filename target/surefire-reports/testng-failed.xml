@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test2(failed)" preserve-order="false">
+    <classes>
+      <class name="com.devmate.tests.Test2">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="test2"/>
+        </methods>
+      </class>
+      <class name="com.devmate.tests.Test1">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="empire" name="com.devmate.tests.Test2" tests="1" failures="0" timestamp="12 Oct 2014 15:28:06 GMT" time="17.049" errors="0">
+  <testcase name="test2" time="12.027" classname="com.devmate.tests.Test2"/>
+</testsuite>
